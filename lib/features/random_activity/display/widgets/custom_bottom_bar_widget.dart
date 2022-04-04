@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/selected_page_provider.dart';
-
 import 'custom_bottom_bar_icon_widget.dart';
 
 class CustomBottomBarWidget extends StatelessWidget {
