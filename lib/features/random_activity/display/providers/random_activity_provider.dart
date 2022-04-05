@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:random_activity/core/usecases/usecase.dart';
 import 'package:random_activity/features/random_activity/domain/usecases/get_random_activity.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
 import '../../../../core/connection/network_info.dart';
 import '../../../../core/errors/failures.dart';
 import '../../data/datasources/random_activity_local_data_source.dart';
